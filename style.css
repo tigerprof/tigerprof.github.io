@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+}
+
+.bluerow {
+  background-color: lightgreen;
+  display: flex;
+  margin: 20px;
+  heigth: 100%
+}
+
+.row {
+  background-color: yellow;
+  display: flex;
+  margin: 0px;
+  height: 100%
+}
+
+.greyrow {
+background-color: black;
+   display: flex;
+margin: 20px;
+
+height: 100%
+}
+
+.description {
+  color: blue;
+  font size: 18 px;
+  font-family: Helvetica;
+  margin-right: 10px;
+  margin-left: 20px;
+  width: 50%
+}
+
+.footer {
+  color: white;
+  font-size: 18 px;
+  font-family: Helvetica;
+  margin: 20px;
+  width: 100%
+}
+
+.email {
+  color: black;
+  font-size: 18px;
+  font-family: Helvetica;
+  margin: 20px;
+  text-align: right;
+  width: 50%
+}
+
+.image > img {
+  border: 2px black;
+  margin-left: 20px;
+  width: 100%
+  height: 100%
+}
+
+
+  
+
